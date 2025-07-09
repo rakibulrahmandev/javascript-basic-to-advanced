@@ -69,3 +69,5 @@ const filterEmploySurname = employsDetails.filter((surname) => {
     return surname.name.toLowerCase().includes('rahman');
 });
 console.log(filterEmploySurname); // output: [ { name: 'Rakibul Rahman', age: 18 }, { name: 'Ensiya Rahman', age: 15 } ];
+
+// note: filter() returns a new array with elements that return true from the callback function.
