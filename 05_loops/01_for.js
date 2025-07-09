@@ -62,3 +62,4 @@ for (let i = 1; i <= 20; i++) {
 };
 
 // note: "continue" Skips the current iteration and moves to the next one in the loop.
+// tip: In for loops, i++ happens automatically even after continue;
