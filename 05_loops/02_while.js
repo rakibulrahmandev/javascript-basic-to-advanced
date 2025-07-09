@@ -55,6 +55,8 @@ while (l <= 10) {
 };
 
 // break and continue with while loops:
+
+// break:
 let m = 1;
 
 while (m <= 10) {
@@ -68,6 +70,7 @@ while (m <= 10) {
 
 // note: "break" stops the loop completely.
 
+// continue:
 // let n = 1;
 
 // while (n <= 20) {
